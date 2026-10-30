@@ -4,6 +4,8 @@
     color: rgb(255, 62, 4);
     padding: 9px;
     text-align: center;
+    text-transform: capitalize;
+    font-style: italic;
 }
 
 #menu {
@@ -20,13 +22,22 @@
     padding: 20px;
     background-color: #ffffff;
     text-transform: capitalize;
+    font-style: italic;
+    
+    #container{
+        align-items: right;
+        display: block;
+        margin-top: 20px;
+        width: 250px;
+    }
    
 }
 
 #footer {
     background-color: #333;
-    color: white;
+    color: rgb(255, 62, 4);
     padding: 1px;
     text-align: center;
+    margin-top: 250px;
 }
 
