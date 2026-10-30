@@ -4,6 +4,9 @@
     color: rgb(255, 62, 4);
     padding: 9px;
     text-align: center;
+    P{
+        text-transform: capitalize;
+    }
 }
 
 #menu {
@@ -18,7 +21,7 @@
     height: 350px;
     padding: 20px;
     background-color: #ffffff;
-   
+   text-transform: capitalize;
 }
 
 #footer {

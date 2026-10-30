@@ -1,0 +1,37 @@
+#header {
+    background-color: #333;
+    color: rgb(255, 62, 4);
+    padding: 9px;
+    text-align: center;
+}
+
+#menu {
+    float: left;
+    width: 20%;
+    height: 390px;
+    background-color: #faf7f7;
+}
+
+#main {
+    margin-left: 20%;
+    height: 350px;
+    padding: 20px;
+    background-color: #ffffff;
+    text-transform: capitalize;
+
+    #container{
+        align-items: right;
+        display: block;
+        margin-top: 20px;
+        width: 250px;
+    }
+
+}
+
+#footer {
+    background-color: #333;
+    color: white;
+    padding: 1px;
+    text-align: center;
+    margin-top: 250px;
+}
